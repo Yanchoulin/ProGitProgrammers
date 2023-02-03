@@ -1,10 +1,10 @@
-# print("Hello World !")
-# print("非創建者第一次修改")
-# print("創建者第二修改")
-# print("新增Python資料夾並把程式移至新資料夾內")
-# print("整備去確認練習")
-# print("整備去確認練習2")
-# print("new branch test1")
+print("Hello World !")
+print("非創建者第一次修改")
+print("創建者第二修改")
+print("新增Python資料夾並把程式移至新資料夾內")
+print("整備去確認練習")
+print("整備去確認練習2")
+print("new branch test1")
 import serial
 from tkinter import *
 import time
